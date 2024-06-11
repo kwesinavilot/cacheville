@@ -6,6 +6,7 @@
 ./cacheville/logs/*
 
 ./cacheville/.env
+/cacheville/.env
 
 ./cacheville/db.sqlite3
 /cacheville/db.sqlite3
